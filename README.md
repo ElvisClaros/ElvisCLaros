@@ -19,7 +19,7 @@ print("I am a part time developer")
 print("My email is: elvis@eclaros.xyz")
 ```
 ``` bash
-~$ curl ip-api.com/
+~$ curl info.com/ELvisClaros
 {
   "status"       : "success",
   "continent"    : "South America",
