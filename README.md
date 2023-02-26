@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 print("Hello welcome to my profile thanks for your visit")
 print("I am a Python developer")
 print("I am a part time developer")
-print("My email is: elvis@eclaros.xyz")
+print("My email is: elvis@claros.ar")
 ```
 ``` bash
-~$ curl eclaros.xyz/ELvisClaros
+~$ curl elvis.ar/ELvisClaros
 {
   "status"       : "success",
   "continent"    : "South America",
