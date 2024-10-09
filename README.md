@@ -1,40 +1,49 @@
-<!--
-**ElvisClaros/ElvisCLaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hello, I'm Elvis Claros Castro!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-``` python
-print("Hello welcome to my profile thanks for your visit")
-print("I am a Python developer")
-print("I am a part time developer")
-print("My email is: elvis@claros.ar")
-```
-``` bash
-~$ curl elvis.ar/ELvisClaros
-{
-  "status"       : "success",
-  "continent"    : "South America",
-  "continentCode": "SA",
-  "country"      : "Argentina",
-  "countryCode"  : "AR",
-  "region"       : "B",
-  "regionName"   : "Buenos Aires",
-  "city"         : "Burzaco",
-  "zip"          : "1852",
-  "lat"          : -34.__,
-  "lon"          : -58.____,
-  "timezone"     : "America/Argentina/Buenos_Aires",
-  "currency"     : "ARS",
-  "proxy"        : false,
-  "hosting"      : false,
-}
-```
+### 👨‍💻 About Me
+I am a third-year student of **Computer Engineering** at the Faculty of Engineering, UBA. I have experience as an **Honorary Assistant** in the Algorithms and Programming I course, focusing on structured programming, good programming practices, and algorithms.
+
+### 🌍 Location Information
+- **Continent**: South America
+- **Country**: Argentina
+- **Region**: Buenos Aires
+- **City**: Burzaco
+- **ZIP Code**: 1852
+- **Timezone**: America/Argentina/Buenos_Aires
+- **Currency**: ARS
+
+### 📫 Contact Information
+- **Phone**: (011) 15 21185559
+- **Email**: eclaros@fi.uba.ar / elvisclaros@icloud.com
+- **Address**: Castagnino 600 Pb, Burzaco, Almirante Brown, Argentina
+
+### 🗣️ Languages
+- **Spanish**: Native
+- **English**: Intermediate (technical reading and writing, intermediate speaking)
+- **Quechua**
+
+### 💼 Experience
+- **2016-2018**: Honorary Assistant at FIUBA, Algorithms and Programming I, Cátedra Mendez
+- **2014-Present**: Minifletes, Gran Buenos Aires
+- **2011-2014**: Construction Worker, Gran Buenos Aires
+
+### 🎓 Education
+- **2015-Present**: Computer Engineering, Faculty of Engineering, UBA (GPA: 7)
+- **2009-2010**: CBC, Medicine, Faculty of Medicine, UMSS
+- **2005-2009**: High School Diploma in Humanities, Col. Prof. Victor Rosale B, Cbba, Bolivia
+
+### 💻 Programming Languages
+- Python3, C, C++, Haskell, Assembler, Bash/Zsh Scripting, Java (advanced), Smalltalk, C97
+
+### 🛠️ Miscellaneous Technologies
+- OpenSource, Gentoo/Ubuntu/Debian/Beckrot OS and other GNU/Linux, NLTK (Natural Language Toolkit), SVN/GIT Source Version Control, MySQL/PostgreSQL, LaTeX, Bitcoin/Ethereum cryptocurrencies, SSH
+
+### 🌐 Web Development
+- Bootstrap, HTML5, CSS3, PHP, JavaScript/Node.js/jQuery, Apache/Nginx WEB Servers
+
+### 🔍 Interests
+- **Back-end**: Data analysis and categorization (Natural Language Processing, Machine Learning), process optimization, cybersecurity
+
+### ⚡ Fun Fact
+- I love coding and exploring new technologies!
